@@ -1,0 +1,15 @@
+.p1 {
+    text-align: left;
+    font-size: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    font-style: oblique;
+    color: yellow;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
